@@ -1,5 +1,11 @@
+################################################
+#             Eric M. Lynn                     #
+#     I guess I'll call this version 1.3       #
+#  (its just commit number 3, but whatever)    #
+#                                              #
+#           a la fin, to the max               #
+################################################
 
-#imports built-in python functions for time management and random number generation
 import threading
 import random
 import time
